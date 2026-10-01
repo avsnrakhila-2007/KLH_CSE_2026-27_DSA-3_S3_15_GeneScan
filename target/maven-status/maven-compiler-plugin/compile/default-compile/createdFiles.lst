@@ -1,0 +1,12 @@
+GeneScanServer.class
+AnalysisResult.class
+BoyerMoore$TraceStep.class
+NaiveSearch.class
+CompareAlgorithms.class
+BoyerMoore$SearchResult.class
+FileDNAExtractor.class
+BoyerMoore$ComparisonDetail.class
+BoyerMoore.class
+NaiveSearch$SearchResult.class
+DNAParser.class
+GeneScanServer$MultipartUpload.class
